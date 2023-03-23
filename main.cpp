@@ -45,10 +45,10 @@ int main () {
     int vetor[10] = {3,1,5,7,9,4,2,8,10,6};
 
     // Algoritimo Bubble Sort
-    // --> BubbleSort(vetor, 10);
+    BubbleSort(vetor, 10);
 
     // Algoritimo Section Sort
-    // --> SelectionSort(vetor, 10);
+    SelectionSort(vetor, 10);
 
     ConsoleOrd(vetor, 10);
     
